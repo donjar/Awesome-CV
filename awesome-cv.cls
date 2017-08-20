@@ -103,7 +103,7 @@
 %-------------------------------------------------------------------------------
 %% Page Layout
 % Configure page margins with geometry
-\geometry{left=2.0cm, top=2.0cm, right=2.0cm, bottom=2.0cm, footskip=.5cm}
+\geometry{left=2.0cm, top=1.5cm, right=2.0cm, bottom=2.0cm, footskip=.5cm}
 
 %% Header & Footer
 % Set offset to each header and footer
@@ -391,12 +391,12 @@
 \newcommand{\acvHeaderAfterAddressSkip}{-.5mm}
 \newcommand{\acvHeaderIconSep}{\space}
 \newcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
-\newcommand{\acvHeaderAfterSocialSkip}{4mm}
-\newcommand{\acvHeaderAfterQuoteSkip}{3mm}
+\newcommand{\acvHeaderAfterSocialSkip}{6mm}
+\newcommand{\acvHeaderAfterQuoteSkip}{5mm}
 
 % Others
-\newcommand{\acvSectionTopSkip}{0mm}
-\newcommand{\acvSectionContentTopSkip}{0.5mm}
+\newcommand{\acvSectionTopSkip}{3mm}
+\newcommand{\acvSectionContentTopSkip}{2.5mm}
 
 
 %-------------------------------------------------------------------------------
